@@ -102,12 +102,5 @@ os.remove(file_path)
 os.startfile("D:/보험건 입금 리스트/"+f_name+" 보험건 입금 리스트.xlsx")
 
 # 매입 sheet 작업
-# 매입 sheet 작업
-# 매입 sheet 작업
-# 매입 sheet 작업
-
-      
-
-
 
 # imsi_test
